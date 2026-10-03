@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of yannisme/cntheme.** Not for installation: use [Packagist](https://packagist.org/packages/yannisme/cntheme) or the [upstream repository](https://github.com/yannisme/flarum-cn-theme).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/yannisme-cntheme/tree/archive/v1.1.0) · License: `MIT` · Flarum: `*`
+**14** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/yannisme-cntheme/tree/archive/v1.1.0) · License: `MIT` · Flarum: `*`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2021-08-28 | `*` | [Browse](https://github.com/flarchive/yannisme-cntheme/tree/archive/v0.0.1) |
+| `0.0.2` | 2021-08-28 | `*` | [Browse](https://github.com/flarchive/yannisme-cntheme/tree/archive/v0.0.2) |
+| `0.0.3` | 2021-08-28 | `*` | [Browse](https://github.com/flarchive/yannisme-cntheme/tree/archive/v0.0.3) |
+| `1.0.0` | 2021-08-28 | `*` | [Browse](https://github.com/flarchive/yannisme-cntheme/tree/archive/v1.0.0) |
+| `1.0.1` | 2021-08-28 | `*` | [Browse](https://github.com/flarchive/yannisme-cntheme/tree/archive/v1.0.1) |
+| `1.0.2` | 2021-10-06 | `*` | [Browse](https://github.com/flarchive/yannisme-cntheme/tree/archive/v1.0.2) |
+| `1.0.3` | 2021-10-15 | `*` | [Browse](https://github.com/flarchive/yannisme-cntheme/tree/archive/v1.0.3) |
+| `1.0.4` | 2021-10-22 | `*` | [Browse](https://github.com/flarchive/yannisme-cntheme/tree/archive/v1.0.4) |
+| `1.0.5` | 2021-12-14 | `*` | [Browse](https://github.com/flarchive/yannisme-cntheme/tree/archive/v1.0.5) |
+| `1.0.6` | 2021-12-26 | `*` | [Browse](https://github.com/flarchive/yannisme-cntheme/tree/archive/v1.0.6) |
+
+[View all 14 versions](https://github.com/flarchive/yannisme-cntheme/tags)
 
 Catalog entry: [packages/yannisme-cntheme.json](https://github.com/flarchive/archive-index/blob/main/packages/yannisme-cntheme.json)
 
